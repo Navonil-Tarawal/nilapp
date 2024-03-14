@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+// import React from "react";
+import Restrurant from "./component/Basics/Restrurant";
+import Navbar from "./component/Basics/Navbar"
+// import MenuCard from "./component/Basics/MenuCard";
+// import Menu from "./component/Basics/menuApi";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+const App = () =>{
+  return(
+    <>
+    <Navbar/>
+    <Restrurant/>
+    {/* <Menu/> */}
+    {/* <MenuCard/> */}
+    
+    
+
+    </>
+  )
 }
+
+
 
 export default App;
