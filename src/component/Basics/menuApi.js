@@ -64,6 +64,15 @@ const Menu = [
     catagory:"snack",
     price: 25,
     description: "lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis pariatur distinctio ipsam ut sed itaque adipisci hic, praesentium facere animi, non totam magni officiis ab voluptates optio eius, minus repudiandae!,"
+},
+{
+    id:9,
+    Image:"images/burger.jpg",
+    name:"burger",
+    catagory:"snack",
+    price: 50,
+    description: "lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis pariatur distinctio ipsam ut sed itaque adipisci hic, praesentium facere animi, non totam magni officiis ab voluptates optio eius, minus repudiandae!,"
+
 }
 ]
 

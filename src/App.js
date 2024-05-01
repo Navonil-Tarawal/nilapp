@@ -8,8 +8,11 @@ import Navbar from "./component/Basics/Navbar"
 const App = () =>{
   return(
     <>
-    <Navbar/>
+    
+      <Navbar/>
     <Restrurant/>
+    
+    
     {/* <Menu/> */}
     {/* <MenuCard/> */}
     
