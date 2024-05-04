@@ -13,8 +13,8 @@ const App = () =>{
     <Restrurant/>
     
     
-    {/* <Menu/> */}
-    {/* <MenuCard/> */}
+    {/* <Menu/>
+    <MenuCard/> */}
     
     
 
