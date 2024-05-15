@@ -26,12 +26,10 @@ const Navbar = () => {
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">About Us</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Veg/Non-Veg</a>
-        </li>
+    
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropdown
+            Items
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#">Action</a></li>
